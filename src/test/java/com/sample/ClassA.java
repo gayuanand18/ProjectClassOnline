@@ -16,5 +16,20 @@ public class ClassA {
 		System.out.println("3");
 
 	}
+	
+	private void webAppTesting() {
+		System.out.println("Selenium");
+
+	}
+	
+	private void mobileAPPTesting() {
+		System.out.println("Appium");
+
+	}
+	
+	private void apiTesting() {
+		System.out.println("Rest Assured");
+
+	}
 
 }
